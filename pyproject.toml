@@ -9,6 +9,7 @@ dependencies = [
     "ipykernel>=7.2.0",
     "matplotlib>=3.10.8",
     "numpy>=2.4.4",
+    "optuna>=4.8.0",
     "pandas>=3.0.2",
     "sentence-transformers>=5.4.0",
     "umap-learn>=0.5.12",
