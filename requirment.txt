@@ -1,0 +1,6 @@
+hdbscan
+umap-learn
+matplotlib
+numpy
+sentence_transformers
+pandas
