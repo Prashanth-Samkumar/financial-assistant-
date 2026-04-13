@@ -4,3 +4,6 @@ matplotlib
 numpy
 sentence_transformers
 pandas
+transformers
+torch
+tqdm

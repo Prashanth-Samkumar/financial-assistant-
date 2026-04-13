@@ -1,0 +1,1956 @@
+{
+  "113": {
+    "name": "trump / tariffs / tariff / china",
+    "sentence_count": 54,
+    "top_keywords": [
+      "trump",
+      "tariffs",
+      "tariff",
+      "china"
+    ],
+    "keyword_scores": {
+      "trump": 0.078386,
+      "tariffs": 0.070213,
+      "tariff": 0.058166,
+      "china": 0.045058
+    }
+  },
+  "7": {
+    "name": "airtel / bharti / stock / trading",
+    "sentence_count": 46,
+    "top_keywords": [
+      "airtel",
+      "bharti",
+      "stock",
+      "trading"
+    ],
+    "keyword_scores": {
+      "airtel": 0.250074,
+      "bharti": 0.235727,
+      "stock": 0.073849,
+      "trading": 0.062201
+    }
+  },
+  "-1": {
+    "name": "crore / bank / percent / price",
+    "sentence_count": 761,
+    "top_keywords": [
+      "crore",
+      "bank",
+      "percent",
+      "price"
+    ],
+    "keyword_scores": {
+      "crore": 0.017492,
+      "bank": 0.01447,
+      "percent": 0.0128,
+      "price": 0.010828
+    }
+  },
+  "89": {
+    "name": "traded / stock / last / price",
+    "sentence_count": 22,
+    "top_keywords": [
+      "traded",
+      "stock",
+      "last",
+      "price"
+    ],
+    "keyword_scores": {
+      "traded": 0.110958,
+      "stock": 0.098102,
+      "last": 0.073392,
+      "price": 0.066819
+    }
+  },
+  "63": {
+    "name": "rbi / mpc / rate / cut",
+    "sentence_count": 18,
+    "top_keywords": [
+      "rbi",
+      "mpc",
+      "rate",
+      "cut"
+    ],
+    "keyword_scores": {
+      "rbi": 0.146552,
+      "mpc": 0.136056,
+      "rate": 0.131045,
+      "cut": 0.082775
+    }
+  },
+  "4": {
+    "name": "motilal / oswal / buy / dated",
+    "sentence_count": 108,
+    "top_keywords": [
+      "motilal",
+      "oswal",
+      "buy",
+      "dated"
+    ],
+    "keyword_scores": {
+      "motilal": 0.170666,
+      "oswal": 0.169086,
+      "buy": 0.130956,
+      "dated": 0.124134
+    }
+  },
+  "97": {
+    "name": "movement / stock / positive / trading",
+    "sentence_count": 9,
+    "top_keywords": [
+      "movement",
+      "stock",
+      "positive",
+      "trading"
+    ],
+    "keyword_scores": {
+      "movement": 0.174821,
+      "stock": 0.12677,
+      "positive": 0.092451,
+      "trading": 0.092275
+    }
+  },
+  "121": {
+    "name": "sudeep / shah / zone / act",
+    "sentence_count": 22,
+    "top_keywords": [
+      "sudeep",
+      "shah",
+      "zone",
+      "act"
+    ],
+    "keyword_scores": {
+      "sudeep": 0.109471,
+      "shah": 0.109471,
+      "zone": 0.108539,
+      "act": 0.101277
+    }
+  },
+  "59": {
+    "name": "growth / balance / sheets / areas",
+    "sentence_count": 6,
+    "top_keywords": [
+      "growth",
+      "balance",
+      "sheets",
+      "areas"
+    ],
+    "keyword_scores": {
+      "growth": 0.112505,
+      "balance": 0.089815,
+      "sheets": 0.062601,
+      "areas": 0.062601
+    }
+  },
+  "1": {
+    "name": "ideas / below / near / term",
+    "sentence_count": 40,
+    "top_keywords": [
+      "ideas",
+      "below",
+      "near",
+      "term"
+    ],
+    "keyword_scores": {
+      "ideas": 0.655069,
+      "below": 0.476739,
+      "near": 0.388948,
+      "term": 0.366137
+    }
+  },
+  "35": {
+    "name": "securities / hold / dated / icici",
+    "sentence_count": 23,
+    "top_keywords": [
+      "securities",
+      "hold",
+      "dated",
+      "icici"
+    ],
+    "keyword_scores": {
+      "securities": 0.164039,
+      "hold": 0.1596,
+      "dated": 0.145056,
+      "icici": 0.14147
+    }
+  },
+  "48": {
+    "name": "sensex / nifty / declined / cues",
+    "sentence_count": 83,
+    "top_keywords": [
+      "sensex",
+      "nifty",
+      "declined",
+      "cues"
+    ],
+    "keyword_scores": {
+      "sensex": 0.212672,
+      "nifty": 0.097863,
+      "declined": 0.045666,
+      "cues": 0.029811
+    }
+  },
+  "83": {
+    "name": "coal / solar / india / power",
+    "sentence_count": 31,
+    "top_keywords": [
+      "coal",
+      "solar",
+      "india",
+      "power"
+    ],
+    "keyword_scores": {
+      "coal": 0.141518,
+      "solar": 0.067554,
+      "india": 0.050907,
+      "power": 0.041904
+    }
+  },
+  "118": {
+    "name": "drug / medicines / pharma / exports",
+    "sentence_count": 35,
+    "top_keywords": [
+      "drug",
+      "medicines",
+      "pharma",
+      "exports"
+    ],
+    "keyword_scores": {
+      "drug": 0.055432,
+      "medicines": 0.051062,
+      "pharma": 0.045844,
+      "exports": 0.041462
+    }
+  },
+  "64": {
+    "name": "paints / asian / opus / birla",
+    "sentence_count": 19,
+    "top_keywords": [
+      "paints",
+      "asian",
+      "opus",
+      "birla"
+    ],
+    "keyword_scores": {
+      "paints": 0.173471,
+      "asian": 0.085936,
+      "opus": 0.060254,
+      "birla": 0.047938
+    }
+  },
+  "49": {
+    "name": "itc / trading / stock / marginal",
+    "sentence_count": 41,
+    "top_keywords": [
+      "itc",
+      "trading",
+      "stock",
+      "marginal"
+    ],
+    "keyword_scores": {
+      "itc": 0.276655,
+      "trading": 0.10008,
+      "stock": 0.07333,
+      "marginal": 0.068772
+    }
+  },
+  "31": {
+    "name": "prabhudas / lilladher / buy / dated",
+    "sentence_count": 50,
+    "top_keywords": [
+      "prabhudas",
+      "lilladher",
+      "buy",
+      "dated"
+    ],
+    "keyword_scores": {
+      "prabhudas": 0.19661,
+      "lilladher": 0.19661,
+      "buy": 0.132649,
+      "dated": 0.129562
+    }
+  },
+  "71": {
+    "name": "uncertainty / volatility / tariff / flip",
+    "sentence_count": 6,
+    "top_keywords": [
+      "uncertainty",
+      "volatility",
+      "tariff",
+      "flip"
+    ],
+    "keyword_scores": {
+      "uncertainty": 0.090072,
+      "volatility": 0.081963,
+      "tariff": 0.067232,
+      "flip": 0.066948
+    }
+  },
+  "96": {
+    "name": "trent / shares / valuations / price",
+    "sentence_count": 9,
+    "top_keywords": [
+      "trent",
+      "shares",
+      "valuations",
+      "price"
+    ],
+    "keyword_scores": {
+      "trent": 0.211726,
+      "shares": 0.054554,
+      "valuations": 0.05312,
+      "price": 0.051633
+    }
+  },
+  "0": {
+    "name": "ideas / consider / below / short",
+    "sentence_count": 76,
+    "top_keywords": [
+      "ideas",
+      "consider",
+      "below",
+      "short"
+    ],
+    "keyword_scores": {
+      "ideas": 0.535541,
+      "consider": 0.421536,
+      "below": 0.40522,
+      "short": 0.381874
+    }
+  },
+  "67": {
+    "name": "cement / ultratech / cements / ambuja",
+    "sentence_count": 19,
+    "top_keywords": [
+      "cement",
+      "ultratech",
+      "cements",
+      "ambuja"
+    ],
+    "keyword_scores": {
+      "cement": 0.113019,
+      "ultratech": 0.109026,
+      "cements": 0.108875,
+      "ambuja": 0.100748
+    }
+  },
+  "80": {
+    "name": "angel / gainer / top / one",
+    "sentence_count": 17,
+    "top_keywords": [
+      "angel",
+      "gainer",
+      "top",
+      "one"
+    ],
+    "keyword_scores": {
+      "angel": 0.11416,
+      "gainer": 0.078021,
+      "top": 0.066171,
+      "one": 0.056926
+    }
+  },
+  "100": {
+    "name": "stock / implies / percent / past",
+    "sentence_count": 48,
+    "top_keywords": [
+      "stock",
+      "implies",
+      "percent",
+      "past"
+    ],
+    "keyword_scores": {
+      "stock": 0.065309,
+      "implies": 0.060405,
+      "percent": 0.047096,
+      "past": 0.044371
+    }
+  },
+  "30": {
+    "name": "sez / ports / adani / motilal",
+    "sentence_count": 8,
+    "top_keywords": [
+      "sez",
+      "ports",
+      "adani",
+      "motilal"
+    ],
+    "keyword_scores": {
+      "sez": 0.26255,
+      "ports": 0.180144,
+      "adani": 0.140902,
+      "motilal": 0.138886
+    }
+  },
+  "117": {
+    "name": "steel / dumping / cheap / indian",
+    "sentence_count": 6,
+    "top_keywords": [
+      "steel",
+      "dumping",
+      "cheap",
+      "indian"
+    ],
+    "keyword_scores": {
+      "steel": 0.219828,
+      "dumping": 0.140397,
+      "cheap": 0.140397,
+      "indian": 0.105575
+    }
+  },
+  "56": {
+    "name": "analysis / moneycontrol / indicates / bearish",
+    "sentence_count": 16,
+    "top_keywords": [
+      "analysis",
+      "moneycontrol",
+      "indicates",
+      "bearish"
+    ],
+    "keyword_scores": {
+      "analysis": 0.360743,
+      "moneycontrol": 0.265598,
+      "indicates": 0.216579,
+      "bearish": 0.211192
+    }
+  },
+  "68": {
+    "name": "lock / unlocked / ends / eligible",
+    "sentence_count": 10,
+    "top_keywords": [
+      "lock",
+      "unlocked",
+      "ends",
+      "eligible"
+    ],
+    "keyword_scores": {
+      "lock": 0.21764,
+      "unlocked": 0.190274,
+      "ends": 0.16323,
+      "eligible": 0.14754
+    }
+  },
+  "47": {
+    "name": "consultancy / tata / services / trading",
+    "sentence_count": 40,
+    "top_keywords": [
+      "consultancy",
+      "tata",
+      "services",
+      "trading"
+    ],
+    "keyword_scores": {
+      "consultancy": 0.198274,
+      "tata": 0.125421,
+      "services": 0.116374,
+      "trading": 0.079505
+    }
+  },
+  "62": {
+    "name": "bajaj / finance / auto / allianz",
+    "sentence_count": 34,
+    "top_keywords": [
+      "bajaj",
+      "finance",
+      "auto",
+      "allianz"
+    ],
+    "keyword_scores": {
+      "bajaj": 0.137504,
+      "finance": 0.046798,
+      "auto": 0.036938,
+      "allianz": 0.029273
+    }
+  },
+  "115": {
+    "name": "crore / net / profit / reported",
+    "sentence_count": 10,
+    "top_keywords": [
+      "crore",
+      "net",
+      "profit",
+      "reported"
+    ],
+    "keyword_scores": {
+      "crore": 0.172441,
+      "net": 0.164183,
+      "profit": 0.146478,
+      "reported": 0.094592
+    }
+  },
+  "51": {
+    "name": "hcl / technologies / mrf / wipro",
+    "sentence_count": 10,
+    "top_keywords": [
+      "hcl",
+      "technologies",
+      "mrf",
+      "wipro"
+    ],
+    "keyword_scores": {
+      "hcl": 0.09376,
+      "technologies": 0.085062,
+      "mrf": 0.075172,
+      "wipro": 0.070491
+    }
+  },
+  "52": {
+    "name": "oil / crude / prices / barrel",
+    "sentence_count": 38,
+    "top_keywords": [
+      "oil",
+      "crude",
+      "prices",
+      "barrel"
+    ],
+    "keyword_scores": {
+      "oil": 0.145856,
+      "crude": 0.123808,
+      "prices": 0.05988,
+      "barrel": 0.045111
+    }
+  },
+  "3": {
+    "name": "watch / stocks / warch",
+    "sentence_count": 14,
+    "top_keywords": [
+      "watch",
+      "stocks",
+      "warch"
+    ],
+    "keyword_scores": {
+      "watch": 1.160689,
+      "stocks": 0.675394,
+      "warch": 0.172153
+    }
+  },
+  "91": {
+    "name": "apr / focus / like / bank",
+    "sentence_count": 18,
+    "top_keywords": [
+      "apr",
+      "focus",
+      "like",
+      "bank"
+    ],
+    "keyword_scores": {
+      "apr": 0.122423,
+      "focus": 0.071656,
+      "like": 0.0657,
+      "bank": 0.063013
+    }
+  },
+  "109": {
+    "name": "consolidation / frontline / continue / indices",
+    "sentence_count": 15,
+    "top_keywords": [
+      "consolidation",
+      "frontline",
+      "continue",
+      "indices"
+    ],
+    "keyword_scores": {
+      "consolidation": 0.208379,
+      "frontline": 0.162507,
+      "continue": 0.150333,
+      "indices": 0.130958
+    }
+  },
+  "88": {
+    "name": "airbus / adoption / helicopter / motors",
+    "sentence_count": 18,
+    "top_keywords": [
+      "airbus",
+      "adoption",
+      "helicopter",
+      "motors"
+    ],
+    "keyword_scores": {
+      "airbus": 0.071148,
+      "adoption": 0.035574,
+      "helicopter": 0.035574,
+      "motors": 0.034652
+    }
+  },
+  "54": {
+    "name": "muted / profitability / cost / quarters",
+    "sentence_count": 7,
+    "top_keywords": [
+      "muted",
+      "profitability",
+      "cost",
+      "quarters"
+    ],
+    "keyword_scores": {
+      "muted": 0.109561,
+      "profitability": 0.081065,
+      "cost": 0.076701,
+      "quarters": 0.076701
+    }
+  },
+  "17": {
+    "name": "sharekhan / buy / dated / recommended",
+    "sentence_count": 52,
+    "top_keywords": [
+      "sharekhan",
+      "buy",
+      "dated",
+      "recommended"
+    ],
+    "keyword_scores": {
+      "sharekhan": 0.346687,
+      "buy": 0.144664,
+      "dated": 0.138472,
+      "recommended": 0.132921
+    }
+  },
+  "110": {
+    "name": "rangebound / continue / expected / upcoming",
+    "sentence_count": 20,
+    "top_keywords": [
+      "rangebound",
+      "continue",
+      "expected",
+      "upcoming"
+    ],
+    "keyword_scores": {
+      "rangebound": 0.242987,
+      "continue": 0.130831,
+      "expected": 0.122681,
+      "upcoming": 0.117748
+    }
+  },
+  "55": {
+    "name": "analysis / moneycontrol / indicates / bullish",
+    "sentence_count": 15,
+    "top_keywords": [
+      "analysis",
+      "moneycontrol",
+      "indicates",
+      "bullish"
+    ],
+    "keyword_scores": {
+      "analysis": 0.293103,
+      "moneycontrol": 0.248999,
+      "indicates": 0.216579,
+      "bullish": 0.19025
+    }
+  },
+  "73": {
+    "name": "tube / trading / stock / currently",
+    "sentence_count": 19,
+    "top_keywords": [
+      "tube",
+      "trading",
+      "stock",
+      "currently"
+    ],
+    "keyword_scores": {
+      "tube": 0.074912,
+      "trading": 0.053604,
+      "stock": 0.052872,
+      "currently": 0.049471
+    }
+  },
+  "92": {
+    "name": "smallcap / midcap / index / nifty",
+    "sentence_count": 47,
+    "top_keywords": [
+      "smallcap",
+      "midcap",
+      "index",
+      "nifty"
+    ],
+    "keyword_scores": {
+      "smallcap": 0.232403,
+      "midcap": 0.14541,
+      "index": 0.142085,
+      "nifty": 0.085982
+    }
+  },
+  "116": {
+    "name": "index / sessions / nine / recorded",
+    "sentence_count": 9,
+    "top_keywords": [
+      "index",
+      "sessions",
+      "nine",
+      "recorded"
+    ],
+    "keyword_scores": {
+      "index": 0.220168,
+      "sessions": 0.13908,
+      "nine": 0.101018,
+      "recorded": 0.078963
+    }
+  },
+  "13": {
+    "name": "watch / stocks / highlighted / universe",
+    "sentence_count": 21,
+    "top_keywords": [
+      "watch",
+      "stocks",
+      "highlighted",
+      "universe"
+    ],
+    "keyword_scores": {
+      "watch": 0.569608,
+      "stocks": 0.35907,
+      "highlighted": 0.061016,
+      "universe": 0.061016
+    }
+  },
+  "95": {
+    "name": "focus / like / india / technologies",
+    "sentence_count": 33,
+    "top_keywords": [
+      "focus",
+      "like",
+      "india",
+      "technologies"
+    ],
+    "keyword_scores": {
+      "focus": 0.069776,
+      "like": 0.059978,
+      "india": 0.049726,
+      "technologies": 0.042301
+    }
+  },
+  "14": {
+    "name": "stocks / watch / focus / mar",
+    "sentence_count": 41,
+    "top_keywords": [
+      "stocks",
+      "watch",
+      "focus",
+      "mar"
+    ],
+    "keyword_scores": {
+      "stocks": 0.074732,
+      "watch": 0.069155,
+      "focus": 0.06528,
+      "mar": 0.063337
+    }
+  },
+  "66": {
+    "name": "adani / ports / power / enterprises",
+    "sentence_count": 59,
+    "top_keywords": [
+      "adani",
+      "ports",
+      "power",
+      "enterprises"
+    ],
+    "keyword_scores": {
+      "adani": 0.202596,
+      "ports": 0.072867,
+      "power": 0.048025,
+      "enterprises": 0.045137
+    }
+  },
+  "60": {
+    "name": "target / price / buy / ubs",
+    "sentence_count": 10,
+    "top_keywords": [
+      "target",
+      "price",
+      "buy",
+      "ubs"
+    ],
+    "keyword_scores": {
+      "target": 0.111367,
+      "price": 0.0875,
+      "buy": 0.084512,
+      "ubs": 0.081746
+    }
+  },
+  "119": {
+    "name": "index / nifty / sectoral / pushed",
+    "sentence_count": 34,
+    "top_keywords": [
+      "index",
+      "nifty",
+      "sectoral",
+      "pushed"
+    ],
+    "keyword_scores": {
+      "index": 0.126113,
+      "nifty": 0.118422,
+      "sectoral": 0.070604,
+      "pushed": 0.050639
+    }
+  },
+  "19": {
+    "name": "neutral / motilal / oswal / dated",
+    "sentence_count": 28,
+    "top_keywords": [
+      "neutral",
+      "motilal",
+      "oswal",
+      "dated"
+    ],
+    "keyword_scores": {
+      "neutral": 0.230745,
+      "motilal": 0.174091,
+      "oswal": 0.174091,
+      "dated": 0.139436
+    }
+  },
+  "105": {
+    "name": "defence / paras / sindoor / operation",
+    "sentence_count": 23,
+    "top_keywords": [
+      "defence",
+      "paras",
+      "sindoor",
+      "operation"
+    ],
+    "keyword_scores": {
+      "defence": 0.180832,
+      "paras": 0.074542,
+      "sindoor": 0.059413,
+      "operation": 0.039746
+    }
+  },
+  "65": {
+    "name": "percent / sales / according / net",
+    "sentence_count": 16,
+    "top_keywords": [
+      "percent",
+      "sales",
+      "according",
+      "net"
+    ],
+    "keyword_scores": {
+      "percent": 0.214164,
+      "sales": 0.182666,
+      "according": 0.166385,
+      "net": 0.161393
+    }
+  },
+  "75": {
+    "name": "dividend / date / final / share",
+    "sentence_count": 31,
+    "top_keywords": [
+      "dividend",
+      "date",
+      "final",
+      "share"
+    ],
+    "keyword_scores": {
+      "dividend": 0.340747,
+      "date": 0.093773,
+      "final": 0.093602,
+      "share": 0.073213
+    }
+  },
+  "98": {
+    "name": "bulls / favour / intermittent / momentum",
+    "sentence_count": 8,
+    "top_keywords": [
+      "bulls",
+      "favour",
+      "intermittent",
+      "momentum"
+    ],
+    "keyword_scores": {
+      "bulls": 0.328934,
+      "favour": 0.093981,
+      "intermittent": 0.093981,
+      "momentum": 0.087513
+    }
+  },
+  "2": {
+    "name": "watch / stocks / today",
+    "sentence_count": 17,
+    "top_keywords": [
+      "watch",
+      "stocks",
+      "today"
+    ],
+    "keyword_scores": {
+      "watch": 1.214259,
+      "stocks": 0.656097,
+      "today": 0.038594
+    }
+  },
+  "102": {
+    "name": "bank / yes / director / lender",
+    "sentence_count": 80,
+    "top_keywords": [
+      "bank",
+      "yes",
+      "director",
+      "lender"
+    ],
+    "keyword_scores": {
+      "bank": 0.060532,
+      "yes": 0.035006,
+      "director": 0.031105,
+      "lender": 0.028683
+    }
+  },
+  "12": {
+    "name": "watch / stocks / today",
+    "sentence_count": 12,
+    "top_keywords": [
+      "watch",
+      "stocks",
+      "today"
+    ],
+    "keyword_scores": {
+      "watch": 1.153821,
+      "stocks": 0.62344,
+      "today": 0.103907
+    }
+  },
+  "90": {
+    "name": "august / focus / like / corporation",
+    "sentence_count": 11,
+    "top_keywords": [
+      "august",
+      "focus",
+      "like",
+      "corporation"
+    ],
+    "keyword_scores": {
+      "august": 0.086748,
+      "focus": 0.078357,
+      "like": 0.071845,
+      "corporation": 0.05309
+    }
+  },
+  "94": {
+    "name": "july / focus / like / stocks",
+    "sentence_count": 22,
+    "top_keywords": [
+      "july",
+      "focus",
+      "like",
+      "stocks"
+    ],
+    "keyword_scores": {
+      "july": 0.097789,
+      "focus": 0.085074,
+      "like": 0.074103,
+      "stocks": 0.042731
+    }
+  },
+  "15": {
+    "name": "unilever / hindustan / trading / session",
+    "sentence_count": 41,
+    "top_keywords": [
+      "unilever",
+      "hindustan",
+      "trading",
+      "session"
+    ],
+    "keyword_scores": {
+      "unilever": 0.254293,
+      "hindustan": 0.182302,
+      "trading": 0.084106,
+      "session": 0.070856
+    }
+  },
+  "5": {
+    "name": "watch / stocks",
+    "sentence_count": 7,
+    "top_keywords": [
+      "watch",
+      "stocks"
+    ],
+    "keyword_scores": {
+      "watch": 1.249972,
+      "stocks": 0.675394
+    }
+  },
+  "101": {
+    "name": "hdfc / hdb / bank / ipo",
+    "sentence_count": 19,
+    "top_keywords": [
+      "hdfc",
+      "hdb",
+      "bank",
+      "ipo"
+    ],
+    "keyword_scores": {
+      "hdfc": 0.102425,
+      "hdb": 0.086254,
+      "bank": 0.063151,
+      "ipo": 0.053198
+    }
+  },
+  "25": {
+    "name": "mahindra / tech / wins / shares",
+    "sentence_count": 12,
+    "top_keywords": [
+      "mahindra",
+      "tech",
+      "wins",
+      "shares"
+    ],
+    "keyword_scores": {
+      "mahindra": 0.20952,
+      "tech": 0.102493,
+      "wins": 0.057433,
+      "shares": 0.041673
+    }
+  },
+  "84": {
+    "name": "titan / jewellery / damas / percent",
+    "sentence_count": 12,
+    "top_keywords": [
+      "titan",
+      "jewellery",
+      "damas",
+      "percent"
+    ],
+    "keyword_scores": {
+      "titan": 0.28214,
+      "jewellery": 0.118994,
+      "damas": 0.088446,
+      "percent": 0.086198
+    }
+  },
+  "106": {
+    "name": "sustainability / watch / rebound / key",
+    "sentence_count": 11,
+    "top_keywords": [
+      "sustainability",
+      "watch",
+      "rebound",
+      "key"
+    ],
+    "keyword_scores": {
+      "sustainability": 0.28035,
+      "watch": 0.169488,
+      "rebound": 0.146521,
+      "key": 0.118363
+    }
+  },
+  "33": {
+    "name": "prabhudas / lilladher / hold / dated",
+    "sentence_count": 28,
+    "top_keywords": [
+      "prabhudas",
+      "lilladher",
+      "hold",
+      "dated"
+    ],
+    "keyword_scores": {
+      "prabhudas": 0.203456,
+      "lilladher": 0.203456,
+      "hold": 0.173086,
+      "dated": 0.150162
+    }
+  },
+  "77": {
+    "name": "apollo / hospitals / hospital / seasonally",
+    "sentence_count": 11,
+    "top_keywords": [
+      "apollo",
+      "hospitals",
+      "hospital",
+      "seasonally"
+    ],
+    "keyword_scores": {
+      "apollo": 0.168574,
+      "hospitals": 0.134859,
+      "hospital": 0.056998,
+      "seasonally": 0.05297
+    }
+  },
+  "22": {
+    "name": "emkay / buy / dated / recommended",
+    "sentence_count": 36,
+    "top_keywords": [
+      "emkay",
+      "buy",
+      "dated",
+      "recommended"
+    ],
+    "keyword_scores": {
+      "emkay": 0.229253,
+      "buy": 0.118535,
+      "dated": 0.117007,
+      "recommended": 0.112316
+    }
+  },
+  "40": {
+    "name": "securities / buy / icici / dated",
+    "sentence_count": 45,
+    "top_keywords": [
+      "securities",
+      "buy",
+      "icici",
+      "dated"
+    ],
+    "keyword_scores": {
+      "securities": 0.151166,
+      "buy": 0.133303,
+      "icici": 0.130368,
+      "dated": 0.127597
+    }
+  },
+  "111": {
+    "name": "consolidation / upcoming / market / bias",
+    "sentence_count": 23,
+    "top_keywords": [
+      "consolidation",
+      "upcoming",
+      "market",
+      "bias"
+    ],
+    "keyword_scores": {
+      "consolidation": 0.159757,
+      "upcoming": 0.10373,
+      "market": 0.101919,
+      "bias": 0.092645
+    }
+  },
+  "24": {
+    "name": "research / lkp / dated / buy",
+    "sentence_count": 17,
+    "top_keywords": [
+      "research",
+      "lkp",
+      "dated",
+      "buy"
+    ],
+    "keyword_scores": {
+      "research": 0.183966,
+      "lkp": 0.145735,
+      "dated": 0.118025,
+      "buy": 0.115597
+    }
+  },
+  "57": {
+    "name": "analysis / moneycontrol / indicates / sentiment",
+    "sentence_count": 19,
+    "top_keywords": [
+      "analysis",
+      "moneycontrol",
+      "indicates",
+      "sentiment"
+    ],
+    "keyword_scores": {
+      "analysis": 0.296239,
+      "moneycontrol": 0.245371,
+      "indicates": 0.195638,
+      "sentiment": 0.150163
+    }
+  },
+  "86": {
+    "name": "yoy / net / crore / profit",
+    "sentence_count": 13,
+    "top_keywords": [
+      "yoy",
+      "net",
+      "crore",
+      "profit"
+    ],
+    "keyword_scores": {
+      "yoy": 0.259325,
+      "net": 0.244971,
+      "crore": 0.225131,
+      "profit": 0.218555
+    }
+  },
+  "108": {
+    "name": "crore / revenue / quarter / operations",
+    "sentence_count": 33,
+    "top_keywords": [
+      "crore",
+      "revenue",
+      "quarter",
+      "operations"
+    ],
+    "keyword_scores": {
+      "crore": 0.159639,
+      "revenue": 0.120479,
+      "quarter": 0.086781,
+      "operations": 0.078417
+    }
+  },
+  "32": {
+    "name": "prabhudas / lilladher / accumulate / dated",
+    "sentence_count": 25,
+    "top_keywords": [
+      "prabhudas",
+      "lilladher",
+      "accumulate",
+      "dated"
+    ],
+    "keyword_scores": {
+      "prabhudas": 0.2226,
+      "lilladher": 0.2226,
+      "accumulate": 0.2226,
+      "dated": 0.146689
+    }
+  },
+  "93": {
+    "name": "indices / benchmark / upcoming / consolidate",
+    "sentence_count": 17,
+    "top_keywords": [
+      "indices",
+      "benchmark",
+      "upcoming",
+      "consolidate"
+    ],
+    "keyword_scores": {
+      "indices": 0.17131,
+      "benchmark": 0.161405,
+      "upcoming": 0.060509,
+      "consolidate": 0.05478
+    }
+  },
+  "76": {
+    "name": "vedanta / matter / debt / agm",
+    "sentence_count": 20,
+    "top_keywords": [
+      "vedanta",
+      "matter",
+      "debt",
+      "agm"
+    ],
+    "keyword_scores": {
+      "vedanta": 0.180081,
+      "matter": 0.052566,
+      "debt": 0.043956,
+      "agm": 0.043956
+    }
+  },
+  "29": {
+    "name": "securities / sell / icici / dated",
+    "sentence_count": 8,
+    "top_keywords": [
+      "securities",
+      "sell",
+      "icici",
+      "dated"
+    ],
+    "keyword_scores": {
+      "securities": 0.155961,
+      "sell": 0.15174,
+      "icici": 0.134503,
+      "dated": 0.131644
+    }
+  },
+  "87": {
+    "name": "investors / fundamentally / closely / advised",
+    "sentence_count": 15,
+    "top_keywords": [
+      "investors",
+      "fundamentally",
+      "closely",
+      "advised"
+    ],
+    "keyword_scores": {
+      "investors": 0.067125,
+      "fundamentally": 0.043758,
+      "closely": 0.042628,
+      "advised": 0.039552
+    }
+  },
+  "6": {
+    "name": "watch / stocks",
+    "sentence_count": 7,
+    "top_keywords": [
+      "watch",
+      "stocks"
+    ],
+    "keyword_scores": {
+      "watch": 1.249972,
+      "stocks": 0.675394
+    }
+  },
+  "21": {
+    "name": "citi / cipla / stock / hikes",
+    "sentence_count": 9,
+    "top_keywords": [
+      "citi",
+      "cipla",
+      "stock",
+      "hikes"
+    ],
+    "keyword_scores": {
+      "citi": 0.131146,
+      "cipla": 0.128141,
+      "stock": 0.05486,
+      "hikes": 0.053825
+    }
+  },
+  "112": {
+    "name": "sectoral / red / indices / constituents",
+    "sentence_count": 13,
+    "top_keywords": [
+      "sectoral",
+      "red",
+      "indices",
+      "constituents"
+    ],
+    "keyword_scores": {
+      "sectoral": 0.24654,
+      "red": 0.18484,
+      "indices": 0.150602,
+      "constituents": 0.123496
+    }
+  },
+  "85": {
+    "name": "revenue / bajaj / crore / rises",
+    "sentence_count": 6,
+    "top_keywords": [
+      "revenue",
+      "bajaj",
+      "crore",
+      "rises"
+    ],
+    "keyword_scores": {
+      "revenue": 0.230081,
+      "bajaj": 0.22871,
+      "crore": 0.225131,
+      "rises": 0.223798
+    }
+  },
+  "9": {
+    "name": "geojit / buy / dated / services",
+    "sentence_count": 10,
+    "top_keywords": [
+      "geojit",
+      "buy",
+      "dated",
+      "services"
+    ],
+    "keyword_scores": {
+      "geojit": 0.24114,
+      "buy": 0.11679,
+      "dated": 0.111791,
+      "services": 0.110632
+    }
+  },
+  "41": {
+    "name": "godrej / properties / land / acres",
+    "sentence_count": 14,
+    "top_keywords": [
+      "godrej",
+      "properties",
+      "land",
+      "acres"
+    ],
+    "keyword_scores": {
+      "godrej": 0.214846,
+      "properties": 0.184154,
+      "land": 0.064074,
+      "acres": 0.055089
+    }
+  },
+  "74": {
+    "name": "crore / jagdishan / command / control",
+    "sentence_count": 27,
+    "top_keywords": [
+      "crore",
+      "jagdishan",
+      "command",
+      "control"
+    ],
+    "keyword_scores": {
+      "crore": 0.183531,
+      "jagdishan": 0.052394,
+      "command": 0.052394,
+      "control": 0.047635
+    }
+  },
+  "70": {
+    "name": "fmcg / nestle / tax / consumption",
+    "sentence_count": 15,
+    "top_keywords": [
+      "fmcg",
+      "nestle",
+      "tax",
+      "consumption"
+    ],
+    "keyword_scores": {
+      "fmcg": 0.105795,
+      "nestle": 0.083461,
+      "tax": 0.060454,
+      "consumption": 0.045341
+    }
+  },
+  "61": {
+    "name": "fintech / morgan / stanley / underweight",
+    "sentence_count": 19,
+    "top_keywords": [
+      "fintech",
+      "morgan",
+      "stanley",
+      "underweight"
+    ],
+    "keyword_scores": {
+      "fintech": 0.128319,
+      "morgan": 0.085733,
+      "stanley": 0.071444,
+      "underweight": 0.059756
+    }
+  },
+  "37": {
+    "name": "choksey / accumulate / deven / dated",
+    "sentence_count": 6,
+    "top_keywords": [
+      "choksey",
+      "accumulate",
+      "deven",
+      "dated"
+    ],
+    "keyword_scores": {
+      "choksey": 0.246273,
+      "accumulate": 0.221896,
+      "deven": 0.205227,
+      "dated": 0.146225
+    }
+  },
+  "103": {
+    "name": "pharma / trading / glenmark / mankind",
+    "sentence_count": 31,
+    "top_keywords": [
+      "pharma",
+      "trading",
+      "glenmark",
+      "mankind"
+    ],
+    "keyword_scores": {
+      "pharma": 0.170337,
+      "trading": 0.082652,
+      "glenmark": 0.062475,
+      "mankind": 0.05999
+    }
+  },
+  "107": {
+    "name": "defence / index / nifty / pushed",
+    "sentence_count": 17,
+    "top_keywords": [
+      "defence",
+      "index",
+      "nifty",
+      "pushed"
+    ],
+    "keyword_scores": {
+      "defence": 0.236658,
+      "index": 0.123098,
+      "nifty": 0.088393,
+      "pushed": 0.061474
+    }
+  },
+  "114": {
+    "name": "quarter / crore / revenue / percent",
+    "sentence_count": 8,
+    "top_keywords": [
+      "quarter",
+      "crore",
+      "revenue",
+      "percent"
+    ],
+    "keyword_scores": {
+      "quarter": 0.144311,
+      "crore": 0.114961,
+      "revenue": 0.105739,
+      "percent": 0.087459
+    }
+  },
+  "78": {
+    "name": "results / confirms / compliance / july",
+    "sentence_count": 12,
+    "top_keywords": [
+      "results",
+      "confirms",
+      "compliance",
+      "july"
+    ],
+    "keyword_scores": {
+      "results": 0.167472,
+      "confirms": 0.155736,
+      "compliance": 0.155736,
+      "july": 0.122021
+    }
+  },
+  "82": {
+    "name": "block / worth / antfin / crore",
+    "sentence_count": 24,
+    "top_keywords": [
+      "block",
+      "worth",
+      "antfin",
+      "crore"
+    ],
+    "keyword_scores": {
+      "block": 0.088665,
+      "worth": 0.080868,
+      "antfin": 0.080765,
+      "crore": 0.068595
+    }
+  },
+  "120": {
+    "name": "nifty / shah / test / sudeep",
+    "sentence_count": 12,
+    "top_keywords": [
+      "nifty",
+      "shah",
+      "test",
+      "sudeep"
+    ],
+    "keyword_scores": {
+      "nifty": 0.113003,
+      "shah": 0.06371,
+      "test": 0.042474,
+      "sudeep": 0.042474
+    }
+  },
+  "99": {
+    "name": "revenue / year / growth / projected",
+    "sentence_count": 19,
+    "top_keywords": [
+      "revenue",
+      "year",
+      "growth",
+      "projected"
+    ],
+    "keyword_scores": {
+      "revenue": 0.064964,
+      "year": 0.059996,
+      "growth": 0.049543,
+      "projected": 0.047685
+    }
+  },
+  "8": {
+    "name": "infosys / trading / stock / session",
+    "sentence_count": 38,
+    "top_keywords": [
+      "infosys",
+      "trading",
+      "stock",
+      "session"
+    ],
+    "keyword_scores": {
+      "infosys": 0.250216,
+      "trading": 0.066604,
+      "stock": 0.063654,
+      "session": 0.053086
+    }
+  },
+  "23": {
+    "name": "emkay / reduce / dated / recommended",
+    "sentence_count": 6,
+    "top_keywords": [
+      "emkay",
+      "reduce",
+      "dated",
+      "recommended"
+    ],
+    "keyword_scores": {
+      "emkay": 0.246992,
+      "reduce": 0.18484,
+      "dated": 0.137521,
+      "recommended": 0.132008
+    }
+  },
+  "42": {
+    "name": "jindal / stainless / currently / stock",
+    "sentence_count": 9,
+    "top_keywords": [
+      "jindal",
+      "stainless",
+      "currently",
+      "stock"
+    ],
+    "keyword_scores": {
+      "jindal": 0.202521,
+      "stainless": 0.194487,
+      "currently": 0.064762,
+      "stock": 0.063446
+    }
+  },
+  "36": {
+    "name": "choksey / deven / dated / recommended",
+    "sentence_count": 12,
+    "top_keywords": [
+      "choksey",
+      "deven",
+      "dated",
+      "recommended"
+    ],
+    "keyword_scores": {
+      "choksey": 0.221086,
+      "deven": 0.147391,
+      "dated": 0.13127,
+      "recommended": 0.126008
+    }
+  },
+  "38": {
+    "name": "max / healthcare / institute / limited",
+    "sentence_count": 13,
+    "top_keywords": [
+      "max",
+      "healthcare",
+      "institute",
+      "limited"
+    ],
+    "keyword_scores": {
+      "max": 0.199059,
+      "healthcare": 0.192303,
+      "institute": 0.184148,
+      "limited": 0.099258
+    }
+  },
+  "16": {
+    "name": "rathi / anand / buy / dated",
+    "sentence_count": 9,
+    "top_keywords": [
+      "rathi",
+      "anand",
+      "buy",
+      "dated"
+    ],
+    "keyword_scores": {
+      "rathi": 0.284095,
+      "anand": 0.256786,
+      "buy": 0.138187,
+      "dated": 0.132272
+    }
+  },
+  "45": {
+    "name": "hero / motocorp / moto / temporarily",
+    "sentence_count": 7,
+    "top_keywords": [
+      "hero",
+      "motocorp",
+      "moto",
+      "temporarily"
+    ],
+    "keyword_scores": {
+      "hero": 0.254041,
+      "motocorp": 0.21775,
+      "moto": 0.065139,
+      "temporarily": 0.065139
+    }
+  },
+  "34": {
+    "name": "prabhudas / lilladher / reduce / dated",
+    "sentence_count": 8,
+    "top_keywords": [
+      "prabhudas",
+      "lilladher",
+      "reduce",
+      "dated"
+    ],
+    "keyword_scores": {
+      "prabhudas": 0.231416,
+      "lilladher": 0.231416,
+      "reduce": 0.204971,
+      "dated": 0.152498
+    }
+  },
+  "104": {
+    "name": "ebitda / crore / margin / percent",
+    "sentence_count": 14,
+    "top_keywords": [
+      "ebitda",
+      "crore",
+      "margin",
+      "percent"
+    ],
+    "keyword_scores": {
+      "ebitda": 0.326389,
+      "crore": 0.114961,
+      "margin": 0.085829,
+      "percent": 0.083294
+    }
+  },
+  "81": {
+    "name": "blackrock / jio / ambani / mukesh",
+    "sentence_count": 7,
+    "top_keywords": [
+      "blackrock",
+      "jio",
+      "ambani",
+      "mukesh"
+    ],
+    "keyword_scores": {
+      "blackrock": 0.211416,
+      "jio": 0.205026,
+      "ambani": 0.10882,
+      "mukesh": 0.072547
+    }
+  },
+  "44": {
+    "name": "dlf / mumbai / privana / westpark",
+    "sentence_count": 9,
+    "top_keywords": [
+      "dlf",
+      "mumbai",
+      "privana",
+      "westpark"
+    ],
+    "keyword_scores": {
+      "dlf": 0.192937,
+      "mumbai": 0.141044,
+      "privana": 0.136423,
+      "westpark": 0.136423
+    }
+  },
+  "43": {
+    "name": "eternal / zomato / rapido / blinkit",
+    "sentence_count": 20,
+    "top_keywords": [
+      "eternal",
+      "zomato",
+      "rapido",
+      "blinkit"
+    ],
+    "keyword_scores": {
+      "eternal": 0.124071,
+      "zomato": 0.070808,
+      "rapido": 0.056646,
+      "blinkit": 0.049523
+    }
+  },
+  "53": {
+    "name": "avenue / supermarts / stores / store",
+    "sentence_count": 15,
+    "top_keywords": [
+      "avenue",
+      "supermarts",
+      "stores",
+      "store"
+    ],
+    "keyword_scores": {
+      "avenue": 0.215593,
+      "supermarts": 0.215593,
+      "stores": 0.089409,
+      "store": 0.074765
+    }
+  },
+  "39": {
+    "name": "prudential / icici / bank / shareholding",
+    "sentence_count": 7,
+    "top_keywords": [
+      "prudential",
+      "icici",
+      "bank",
+      "shareholding"
+    ],
+    "keyword_scores": {
+      "prudential": 0.243245,
+      "icici": 0.231425,
+      "bank": 0.096584,
+      "shareholding": 0.087945
+    }
+  },
+  "72": {
+    "name": "electricals / renewable / heavy / stock",
+    "sentence_count": 7,
+    "top_keywords": [
+      "electricals",
+      "renewable",
+      "heavy",
+      "stock"
+    ],
+    "keyword_scores": {
+      "electricals": 0.137011,
+      "renewable": 0.118131,
+      "heavy": 0.109342,
+      "stock": 0.088084
+    }
+  },
+  "10": {
+    "name": "amp / larsen / toubro / trading",
+    "sentence_count": 31,
+    "top_keywords": [
+      "amp",
+      "larsen",
+      "toubro",
+      "trading"
+    ],
+    "keyword_scores": {
+      "amp": 0.262765,
+      "larsen": 0.197282,
+      "toubro": 0.197282,
+      "trading": 0.06742
+    }
+  },
+  "46": {
+    "name": "laboratories / reddys / reddy / margins",
+    "sentence_count": 9,
+    "top_keywords": [
+      "laboratories",
+      "reddys",
+      "reddy",
+      "margins"
+    ],
+    "keyword_scores": {
+      "laboratories": 0.098423,
+      "reddys": 0.096632,
+      "reddy": 0.088055,
+      "margins": 0.044028
+    }
+  },
+  "79": {
+    "name": "jsw / steel / jfe / relief",
+    "sentence_count": 9,
+    "top_keywords": [
+      "jsw",
+      "steel",
+      "jfe",
+      "relief"
+    ],
+    "keyword_scores": {
+      "jsw": 0.186326,
+      "steel": 0.163364,
+      "jfe": 0.076512,
+      "relief": 0.054887
+    }
+  },
+  "18": {
+    "name": "zinc / hindustan / silver / price",
+    "sentence_count": 18,
+    "top_keywords": [
+      "zinc",
+      "hindustan",
+      "silver",
+      "price"
+    ],
+    "keyword_scores": {
+      "zinc": 0.235286,
+      "hindustan": 0.152498,
+      "silver": 0.129523,
+      "price": 0.046861
+    }
+  },
+  "11": {
+    "name": "mazagon / dock / shipbuilders / stock",
+    "sentence_count": 14,
+    "top_keywords": [
+      "mazagon",
+      "dock",
+      "shipbuilders",
+      "stock"
+    ],
+    "keyword_scores": {
+      "mazagon": 0.257503,
+      "dock": 0.257503,
+      "shipbuilders": 0.189726,
+      "stock": 0.049899
+    }
+  },
+  "27": {
+    "name": "railtel / corporation / share / railway",
+    "sentence_count": 15,
+    "top_keywords": [
+      "railtel",
+      "corporation",
+      "share",
+      "railway"
+    ],
+    "keyword_scores": {
+      "railtel": 0.152135,
+      "corporation": 0.095838,
+      "share": 0.073498,
+      "railway": 0.053597
+    }
+  },
+  "20": {
+    "name": "cochin / shipyard / trading / stock",
+    "sentence_count": 17,
+    "top_keywords": [
+      "cochin",
+      "shipyard",
+      "trading",
+      "stock"
+    ],
+    "keyword_scores": {
+      "cochin": 0.334752,
+      "shipyard": 0.279925,
+      "trading": 0.059612,
+      "stock": 0.054598
+    }
+  },
+  "26": {
+    "name": "idea / vodafone / telecom / subscriber",
+    "sentence_count": 14,
+    "top_keywords": [
+      "idea",
+      "vodafone",
+      "telecom",
+      "subscriber"
+    ],
+    "keyword_scores": {
+      "idea": 0.241308,
+      "vodafone": 0.229791,
+      "telecom": 0.058279,
+      "subscriber": 0.05416
+    }
+  },
+  "58": {
+    "name": "nmdc / session / price / volumes",
+    "sentence_count": 7,
+    "top_keywords": [
+      "nmdc",
+      "session",
+      "price",
+      "volumes"
+    ],
+    "keyword_scores": {
+      "nmdc": 0.255642,
+      "session": 0.061361,
+      "price": 0.059162,
+      "volumes": 0.058693
+    }
+  },
+  "50": {
+    "name": "zydus / lifesciences / usfda / patients",
+    "sentence_count": 12,
+    "top_keywords": [
+      "zydus",
+      "lifesciences",
+      "usfda",
+      "patients"
+    ],
+    "keyword_scores": {
+      "zydus": 0.165963,
+      "lifesciences": 0.116304,
+      "usfda": 0.069694,
+      "patients": 0.062994
+    }
+  },
+  "28": {
+    "name": "vikas / nigam / rail / loa",
+    "sentence_count": 10,
+    "top_keywords": [
+      "vikas",
+      "nigam",
+      "rail",
+      "loa"
+    ],
+    "keyword_scores": {
+      "vikas": 0.190927,
+      "nigam": 0.179039,
+      "rail": 0.171519,
+      "loa": 0.059145
+    }
+  },
+  "69": {
+    "name": "kalyan / jewellers / india / trading",
+    "sentence_count": 15,
+    "top_keywords": [
+      "kalyan",
+      "jewellers",
+      "india",
+      "trading"
+    ],
+    "keyword_scores": {
+      "kalyan": 0.246719,
+      "jewellers": 0.246719,
+      "india": 0.068744,
+      "trading": 0.049481
+    }
+  }
+}

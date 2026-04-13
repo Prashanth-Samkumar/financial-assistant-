@@ -3,7 +3,7 @@ import json
 import numpy as np
 
 # Load cluster names file
-with open("cluster_names.json") as f:
+with open("cluster/bert_clusters_names.json") as f:
     cluster_names = json.load(f)
 
 # Load model
@@ -15,7 +15,7 @@ keyword_texts = []
 
 for cid in cluster_names:
     keywords = cluster_names[cid]["name"]
-    keywords = keywords.replace(" / ", " ")  # "tariffs / trump" → "tariffs trump"
+    keywords = keywords.replace(" / ", " ")  
     cluster_ids.append(cid)
     keyword_texts.append(keywords)
 

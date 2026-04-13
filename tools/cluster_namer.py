@@ -20,8 +20,8 @@ STOPWORDS = {
     "any", "if", "because", "s", "t", "re", "ve", "ll"
 }
 
-input_file  = "dataset/clusters.json"
-output_file = "cluster_names.json"
+input_file  = "cluster/bert_clusters.json"
+output_file = "cluster/bert_clusters_names.json"
 top_n       = 4
 
 # Step 1: Load cluster.json
