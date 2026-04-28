@@ -24,6 +24,7 @@ input_file  = "cluster/bert_clusters.json"
 output_file = "cluster/bert_clusters_names.json"
 top_n       = 4
 
+
 # Step 1: Load cluster.json
 with open(input_file, "r") as f:
     clusters = json.load(f)
