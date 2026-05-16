@@ -17,7 +17,7 @@ STOPWORDS = {
     "also", "said", "after", "before", "while", "about", "against",
     "between", "into", "through", "during", "since", "until", "up",
     "out", "over", "then", "once", "further", "there", "here", "again",
-    "any", "if", "because", "s", "t", "re", "ve", "ll"
+    "any", "if", "because", "s", "t", "re", "ve"
 }
 
 input_file  = "cluster/bert_clusters.json"
